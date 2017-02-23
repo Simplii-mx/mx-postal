@@ -1,1 +1,2 @@
-/postal/* Access-Control-Allow-Origin: *
+/postal/* 
+	Access-Control-Allow-Origin: *
